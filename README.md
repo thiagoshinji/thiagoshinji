@@ -1,7 +1,8 @@
-  <h1> Hi, I'm Thiago 🤘🤘🤘 <br>
+  <h1> Hi, I'm Thiago 🤘🤘🤘 
+    <br>
     <br>
     <div style="display: inline_block"><br>
-   That's what I'm studying ✏ <br>
+   That's what I'm working 🛠 <br>
   <br>
   <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Angular" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
@@ -12,6 +13,9 @@
   <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+        <br>
+        <br>
+        <br>
     <h3> Follow Me <br>
         <br>
 <div>

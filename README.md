@@ -1,6 +1,5 @@
   <h1> Hi, I'm Thiago 🤘🤘🤘 
     <br>
-    <br>
     <div style="display: inline_block"><br>
    That's what I'm working 🛠 <br>
   <br>
@@ -15,11 +14,16 @@
 </div>
         <br>
         <br>
+        Check out my website:
+        <br>
+        <br>
+        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/Asterisco.svg" target="_blank"></a> 
+        <br>
         <br>
     <h3> Follow Me <br>
         <br>
 <div>
-  <a href="https://www.linkedin.com/in/thiagoshinji" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/thiagoshin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagoshinji" target="_blank"><img height="42" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/thiagoshin/" target="_blank"><img height="42" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   

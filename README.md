@@ -17,15 +17,7 @@
         <br>
         <br>
     <div style="display: inline_block"><br>        
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
         <a href="https://www.shinji.live" target="_blank"><img src="https://shinji.live/LogoThiago%20Shinji.svg" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/asterisco.ico" target="_blank"></a>
         <br>
         <br>
    <h4> Follow Me <br>

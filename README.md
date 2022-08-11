@@ -16,13 +16,16 @@
    <h2> Check out my website:
         <br>
         <br>
-        <a href="https://www.shinji.live" target="_blank"><img height="60" width="70" src="https://shinji.live/Asterisco.svg" target="_blank"></a> 
+    <div style="display: inline_block"><br>        
+        <a href="https://www.shinji.live" target="_blank"><img src="https://shinji.live/asterisco.ico" target="_blank"></a>
+        <a href="https://www.shinji.live" target="_blank"><img src="https://shinji.live/LogoThiago%20Shinji.svg" target="_blank"></a>
+        <a href="https://www.shinji.live" target="_blank"><img src="https://shinji.live/asterisco.ico" target="_blank"></a>
         <br>
         <br>
    <h2> Follow Me <br>
         <br>
 <div>
-  <a href="https://www.linkedin.com/in/thiagoshinji" target="_blank"><img height="42" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/thiagoshin/" target="_blank"><img height="42" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagoshinji" target="_blank"><img height="38" width="170" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/thiagoshin/" target="_blank"><img height="38" width="170" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   
